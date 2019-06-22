@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT fitness_crm_5027.wsgi:application
